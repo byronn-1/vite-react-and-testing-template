@@ -1,0 +1,18 @@
+import { Story, Meta } from '@storybook/addon-docs/blocks';
+import ExampleComponent from './ExampleComponent';
+import { Box } from '_shared/designSystem/components';
+
+<Meta title="Design System/Components/Util/ExampleComponent" component={ExampleComponent} />
+
+<Story name="ExampleComponent">
+  {(args) => (
+    <Box>
+      <ExampleComponent
+        {...{
+          text: 'ExampleComponent',
+          ...args
+        }}
+      />
+    </Box>
+  )}
+</Story>

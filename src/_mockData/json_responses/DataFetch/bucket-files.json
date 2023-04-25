@@ -1,0 +1,1183 @@
+[
+  {
+    "matchId": "report_2597",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["player"],
+    "extTypes": ["xlsx"],
+    "urlBase": "1011_premiership/202201/reports/1011_eng_prem_202201_player_season_report.xlsx",
+    "compId": "1011"
+  },
+  {
+    "matchId": "report_2598",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["ref"],
+    "extTypes": ["xlsx"],
+    "urlBase": "1011_premiership/202201/reports/1011_eng_prem_202201_ref_season_report.xlsx",
+    "compId": "1011"
+  },
+  {
+    "matchId": "report_2599",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["team"],
+    "extTypes": ["xlsx"],
+    "urlBase": "1011_premiership/202201/reports/1011_eng_prem_202201_team_season_report.xlsx",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271585",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271585_brivbat",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271586",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271586_salvnor",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271587",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271587_exevlei",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271588",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271588_lonvwor",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271589",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271589_newvhar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271590",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271590_glovwas",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271591",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271591_norvlon",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271592",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271592_batvsal",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271593",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271593_leivnew",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271594",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271594_harvsar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271595",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271595_wasvbri",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271596",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271596_worvexe",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271597",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271597_batvwas",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271598",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271598_brivlon",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271599",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271599_norvlei",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271600",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271600_sarvglo",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271601",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271601_worvnew",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271602",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271602_exevhar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271603",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271603_newvbri",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271605",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271605_lonvbat",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271606",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271606_salvexe",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271607",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271607_sarvlei",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271608",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271608_harvnor",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271609",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271609_brivexe",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271610",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271610_batvglo",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271611",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271611_leivsal",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271613",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271613_newvsar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271614",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271614_wasvnor",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271615",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271615_salvlon",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271617",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271617_glovbri",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271618",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271618_norvnew",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271619",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271619_sarvbat",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271620",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271620_harvlei",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271621",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271621_lonvglo",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271622",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271622_batvnor",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271624",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271624_exevsar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271626",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271626_salvhar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271627",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_tight", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271627_glovexe",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271628",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271628_norvbri",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271629",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271629_harvlon",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271631",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271631_sarvsal",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271633",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271633_norvexe",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271634",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271634_brivsar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271637",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271637_newvbat",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271638",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271638_salvglo",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271639",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271639_batvlei",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271640",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271640_exevlon",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271641",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271641_glovnew",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271643",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271643_sarvnor",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271645",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271645_leivlon",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271646",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271646_newvexe",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271648",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271648_harvglo",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271649",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271649_salvbri",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271651",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271651_batvhar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271652",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271652_brivlei",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271653",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271653_glovnor",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271654",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271654_lonvnew",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271657",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271657_exevbat",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271658",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271658_leivglo",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271659",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271659_lonvsar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271660",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271660_newvsal",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271661",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271661_harvbri",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271664",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271664_exevglo",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271666",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271666_harvsal",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271669",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271669_batvnew",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271671",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271671_norvhar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271672",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_tight", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271672_salvlei",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271673",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271673_sarvexe",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271677",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271677_leivnor",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271678",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271678_lonvbri",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271680",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271680_sarvnew",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271681",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271681_brivnew",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271682",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271682_glovlon",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271684",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271684_norvbat",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271687",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["preview", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271687_batvexe",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271688",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271688_lonvsal",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271689",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271689_newvlei",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271690",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271690_norvglo",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271691",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271691_sarvbri",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271693",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271693_exevsal",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271694",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271694_glovsar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271695",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271695_leivbri",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271699",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["1080_tx", "720_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271699_batvlon",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271700",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["1080_tx", "720_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271700_brivnor",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271702",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271702_newvglo",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271704",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271704_salvsar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271706",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271706_glovhar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271707",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["1080_wide", "1080_tight", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271707_lonvlei",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271709",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271709_salvbat",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271712",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": [
+      "1080_tx",
+      "720_wide",
+      "1080_wide",
+      "720_tx",
+      "1080_tight",
+      "720_tight"
+    ],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271712_leivbat",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271713",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271713_newvlon",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271714",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["1080_wide", "1080_tight", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271714_harvexe",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271717",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271717_batvbri",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271718",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271718_exevnew",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271719",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271719_glovlei",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271720",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271720_lonvnor",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271722",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "720_tx", "1080_tight", "720_tight"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271722_sarvhar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271723",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx", "1080_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271723_brivhar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271724",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271724_leivsar",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271727",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271727_norvsal",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271729",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "720_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271729_exevnor",
+    "compId": "1011"
+  },
+  {
+    "matchId": "271737",
+    "season": "202201",
+    "partKey": "1011_202201",
+    "fileTypes": ["720_wide", "1080_wide", "1080_tight", "720_tx"],
+    "extTypes": ["mp4", "xlsx", "pdf"],
+    "urlBase": "1011_premiership/202201/videos/271737_lonvhar",
+    "compId": "1011"
+  }
+]
